@@ -1,6 +1,5 @@
 
 # Front End do projeto
-### acesse o site do curso da fonte: url(https://jstack.com.br/)
 
 Com React e vite
 
