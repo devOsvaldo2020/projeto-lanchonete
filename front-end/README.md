@@ -104,7 +104,15 @@ export function Header() {
 ```
 
 
-continua em 1:38:00
+<!-- continua em 1:38:00 -->
+
+<!-- feito ate o fim desta aula -->
+
+<!-- bora para a aula 3.
+ -->
+
+ continua na video-aula 3
+
 
 
 

@@ -9,7 +9,7 @@ flex-direction: column;
 flex: 1;
 align-items: center;
 
-header{
+> header{
   display: flex;
   align-items: center;
   padding: 8px;
